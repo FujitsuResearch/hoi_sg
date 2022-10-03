@@ -1,0 +1,10 @@
+**/__pycache__/**
+!.gitkeep
+.Python
+.pytest_cache/
+.ipynb_checkpoints
+.python-version
+__pypackages__/
+.env
+.venv
+*.pyc
