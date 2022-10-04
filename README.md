@@ -1,7 +1,7 @@
 # HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection
 This repository contains HICO-DET-SG and V-COCO-SG, new data splits we created based on [HICO-DET](http://www-personal.umich.edu/~ywchao/hico/) and [V-COCO](https://github.com/s-gupta/v-coco) dataset to evaluate systematic generalization in HOI detection.
 
-Also, this repository contains the code to create these json files.
+This repository also contains the source code to create these json files.
 
 ## Json files of HICO-DET-SG and V-COCO-SG
 The json files defining HICO-DET-SG and V-COCO-SG splits are contained in the `data/` folder.
