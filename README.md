@@ -65,6 +65,6 @@ If you find this code helpful for your research, please cite our paper.
     author    = {Kentaro Takemoto and Moyuru Yamada and Tomotake Sasaki and Hisanao Akima},
     title     = {HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection},
     booktitle = {Workshop on Distribution Shifts, 36th Conference on Neural Information Processing Systems},
-    year      = {2022}
+    year      = {2022 (to appear)}
 }
 ```
