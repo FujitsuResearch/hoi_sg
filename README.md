@@ -1,11 +1,16 @@
 # HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection
+## About this repository
 This repository contains HICO-DET-SG and V-COCO-SG, new data splits we created based on [HICO-DET](http://www-personal.umich.edu/~ywchao/hico/) and [V-COCO](https://github.com/s-gupta/v-coco) dataset to evaluate systematic generalization in HOI detection.
 
 This repository also contains the source code to create these json files.
 
 ## Json files of HICO-DET-SG and V-COCO-SG
 The json files defining HICO-DET-SG and V-COCO-SG splits are contained in the `data/` folder.
-You can use them to reproduce our results.
+You can use them to reproduce our results reported in the following study.  
+
+```
+Kentaro Takemoto, Moyuru Yamada, Tomotake Sasaki, Hisanao Akima. HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection. Workshop on Distribution Shifts, 36th Conference on Neural Information Processing Systems, 2022. (to appear) 
+```
 
 ## How to create json files
 ### 1. HOI dataset setup
@@ -49,3 +54,15 @@ python main.py
 ## License
 This project is licensed under the terms of the [BSD 3-Clause Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html).
 Copyright 2022 Fujitsu Limited. All Rights Reserved.
+
+## Citation
+
+If you find this code helpful for your research, please cite our paper.
+```
+@misc{Takemoto_2022,
+    author    = {Kentaro Takemoto and Moyuru Yamada and Tomotake Sasaki and Hisanao Akima},
+    title     = {HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection},
+    booktitle = {Workshop on Distribution Shifts, 36th Conference on Neural Information Processing Systems},
+    year      = {2022}
+}
+```
