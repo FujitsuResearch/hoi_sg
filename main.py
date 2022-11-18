@@ -1,3 +1,7 @@
+# SPDX-License-Identifier: BSD-3-Clause-Clear
+# Copyright (c) 2022 Fujitsu Limited. All rights reserved.
+# Licensed under the BSD 3-Clause Clear License. See LICENSE for details.
+
 from hico import hico
 from vcoco import vcoco
 
