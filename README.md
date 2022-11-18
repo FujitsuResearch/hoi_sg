@@ -5,7 +5,7 @@ This repository contains HICO-DET-SG and V-COCO-SG, new data splits we created b
 This repository also contains the source code to create these json files.
 
 ## Json files of HICO-DET-SG and V-COCO-SG
-The json files defining HICO-DET-SG and V-COCO-SG splits are contained in the `data/` folder.
+The json files defining HICO-DET-SG and V-COCO-SG splits are contained in the `SGsplits/` folder.
 You can use them to reproduce our results reported in the following study.  
 
 ```
