@@ -9,7 +9,9 @@ The json files defining HICO-DET-SG and V-COCO-SG splits are contained in the `d
 You can use them to reproduce our results reported in the following study.  
 
 ```
-Kentaro Takemoto, Moyuru Yamada, Tomotake Sasaki, Hisanao Akima. HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection. Workshop on Distribution Shifts, 36th Conference on Neural Information Processing Systems, 2022. (to appear) 
+Kentaro Takemoto, Moyuru Yamada, Tomotake Sasaki, Hisanao Akima. 
+HICO-DET-SG and V-COCO-SG: New Data Splits to Evaluate Systematic Generalization in Human-Object Interaction Detection. 
+Workshop on Distribution Shifts, 36th Conference on Neural Information Processing Systems, 2022. (to appear) 
 ```
 
 ## How to create json files
