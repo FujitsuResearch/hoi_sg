@@ -41,7 +41,7 @@ python main.py
 ```
 `trainval_hico_[output name].json` and `test_hico_[output name].json` will be created in the input directory.
 
-#### V-COCO
+#### V-COCO-SG
 Set the random seed as 564, 966 and 2065 to generate split 1, 2 and 3, respectively.
 
 Set the ratio as 0.7 for V-COCO-SG.
