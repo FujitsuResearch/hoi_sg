@@ -69,9 +69,6 @@ def vcoco(seed, ratio, input, output):
             sg_test_new.append(s)
         elif sum==0:
             sg_train_new.append(s)
-        else:
-            s['hoi_annotation'] = new
-            sg_test_new.append(s)
 
     for s in sg_test:
         sum=0
@@ -87,9 +84,6 @@ def vcoco(seed, ratio, input, output):
             sg_test_new.append(s)
         elif sum==0:
             sg_train_new.append(s)
-        else:
-            s['hoi_annotation'] = new
-            sg_test_new.append(s)
 
     json_path_train_new = os.path.join(input, 'trainval_vcoco_{}.json'.format(output))
     json_path_test_new = os.path.join(input, 'test_vcoco_{}.json'.format(output))
