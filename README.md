@@ -59,7 +59,7 @@ python main.py
 
 ## License
 This project is licensed under the terms of the [BSD 3-Clause Clear License](https://spdx.org/licenses/BSD-3-Clause-Clear.html).
-Copyright 2023 Fujitsu Limited. All Rights Reserved.
+Copyright 2022, 2023 Fujitsu Limited. All Rights Reserved.
 
 ## Citation
 
