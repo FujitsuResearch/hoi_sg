@@ -27,13 +27,13 @@ You can download HICO-DET dataset from [here](https://drive.google.com/open?id=1
 Instead of using the original annotations files, we use the annotation files provided in [this repository](https://github.com/YueLiao/PPDM). You can download the annotation files from [here](https://drive.google.com/open?id=1WI-gsNLS-t0Kh8TVki1wXqc3y2Ow1f2R). 
 
 #### V-COCO
-First clone the repository of V-COCO from [here](https://github.com/s-gupta/v-coco), and then follow the instruction to generate the file `instances_vcoco_all_2014.json`. Next, download the prior file `prior.pickle` from [here](https://drive.google.com/drive/folders/10uuzvMUCVVv95-xAZg5KS94QXm7QXZW4).
+Firstly, clone the repository of V-COCO from [here](https://github.com/s-gupta/v-coco), and then follow the instruction to generate the file `instances_vcoco_all_2014.json`. Next, download the prior file `prior.pickle` from [here](https://drive.google.com/drive/folders/10uuzvMUCVVv95-xAZg5KS94QXm7QXZW4).
 
 Then follow the instruction in [here](https://github.com/hitachi-rd-cv/qpic) to generate `trainval_vcoco.json` and `test_vcoco.json`.
 
 
 ### 2. Generate SG splits
-Please modify the parameters in `main.py` first.
+Firstly, please modify the parameters in `main.py`.
 
 #### HICO-DET-SG
 Set the random seed as 368, 680 and 750 to generate split 1, 2 and 3, respectively.
