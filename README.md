@@ -8,7 +8,7 @@ The creation process of the new data splits, their statistics, and the evaluatio
 
 Kentaro Takemoto, Moyuru Yamada, Tomotake Sasaki, Hisanao Akima. 
 [HICO-DET-SG and V-COCO-SG: New Data Splits for Evaluating the Systematic Generalization Performance of Human-Object Interaction Detection Models](https://arxiv.org/abs/2305.09948). 
-arXiv preprint, arXiv:2305.09948v2, 2023. 
+arXiv preprint, arXiv:2305.09948v4, 2023. 
 
 
 ## JSON files of HICO-DET-SG and V-COCO-SG
@@ -72,7 +72,7 @@ If you find the data splits and code helpful for your research, please cite the 
 @misc{Takemoto_2023,
     author    = {Takemoto, Kentaro and Yamada, Moyuru and Sasaki, Tomotake and Akima, Hisanao},
     title     = {{HICO-DET-SG} and {V-COCO-SG}: New Data Splits for Evaluating the Systematic Generalization Performance of Human-Object Interaction Detection Models},
-    howpublished = {arXiv preprint, arXiv:2305.09948v2},
+    howpublished = {arXiv preprint, arXiv:2305.09948v4},
     year      = {2023}
 }
 ```
