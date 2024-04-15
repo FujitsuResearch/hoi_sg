@@ -1,14 +1,14 @@
 # HICO-DET-SG and V-COCO-SG: New Data Splits for Evaluating the Systematic Generalization Performance of Human-Object Interaction Detection Models
 ## About this repository
-This repository provides the JSON files that determin the HICO-DET-SG and V-COCO-SG, the new data splits we created based on the [HICO-DET](http://www-personal.umich.edu/~ywchao/hico/) and [V-COCO](https://github.com/s-gupta/v-coco) datasets for evaluating the systematic generalization performance of Human-Object Interaction (HOI) detection models.
+This repository provides the JSON files that determine the HICO-DET-SG and V-COCO-SG, the new data splits we created based on the [HICO-DET](http://www-personal.umich.edu/~ywchao/hico/) and [V-COCO](https://github.com/s-gupta/v-coco) datasets for evaluating the systematic generalization performance of Human-Object Interaction (HOI) detection models.
 
 This repository also provides the source code used to create these JSON files.
 
-The creation process of the new data splits, their statistics, and the evaluation results of the representative HOI detection models ([HOTR](https://github.com/kakaobrain/HOTR), [QPIC](https://github.com/hitachi-rd-cv/qpic), [FGAHOI](https://github.com/xiaomabufei/FGAHOI), and [STIP](https://github.com/zyong812/STIP)) on the new splits are available in the following preprint. 
+The creation process of the new data splits, their statistics, and the evaluation results of four HOI detection models ([HOTR](https://github.com/kakaobrain/HOTR), [QPIC](https://github.com/hitachi-rd-cv/qpic), [FGAHOI](https://github.com/xiaomabufei/FGAHOI), and [STIP](https://github.com/zyong812/STIP)) on the new splits are available in the following technical note. 
 
 Kentaro Takemoto, Moyuru Yamada, Tomotake Sasaki, Hisanao Akima. 
 [HICO-DET-SG and V-COCO-SG: New Data Splits for Evaluating the Systematic Generalization Performance of Human-Object Interaction Detection Models](https://arxiv.org/abs/2305.09948). 
-arXiv preprint, arXiv:2305.09948v4, 2023. 
+arXiv:2305.09948v5, 2024. 
 
 
 ## JSON files of HICO-DET-SG and V-COCO-SG
@@ -72,7 +72,7 @@ If you find the data splits and code helpful for your research, please cite the 
 @misc{Takemoto_2023,
     author    = {Takemoto, Kentaro and Yamada, Moyuru and Sasaki, Tomotake and Akima, Hisanao},
     title     = {{HICO-DET-SG} and {V-COCO-SG}: New Data Splits for Evaluating the Systematic Generalization Performance of Human-Object Interaction Detection Models},
-    howpublished = {arXiv preprint, arXiv:2305.09948v4},
-    year      = {2023}
+    howpublished = {arXiv:2305.09948v5},
+    year      = {2024}
 }
 ```
